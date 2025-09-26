@@ -12,7 +12,7 @@
 
 --> Delete records with confirmation
 
-# Built with Django’s powerful ORM and templating system, this project is perfect for learning core Django concepts such as:
+#Built with Django’s powerful ORM and templating system, this project is perfect for learning core Django concepts such as:
 
 >> Models & database migrations
 
@@ -20,7 +20,7 @@
 
 >> Template rendering
 
-#Getting Started :
+# Getting Started :
 
 >> Clone the repo
 
@@ -32,4 +32,4 @@
 
 >> Start the development server python manage.py runserver
 
-Explore and customize this project as a starting point for more complex web applications!
+
