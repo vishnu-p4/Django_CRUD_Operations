@@ -1,0 +1,25 @@
+# Python
+
+__pycache__/
+
+
+# Django
+*.log
+
+
+# PostgreSQL 
+*.pgsql
+
+
+# Environments
+.env
+.env.*
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Migrations cache
+*/migrations/__pycache__/
